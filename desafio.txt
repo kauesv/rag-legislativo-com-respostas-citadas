@@ -1,0 +1,27 @@
+RAG legislativo com respostas citadas.
+
+Objetivo: responder perguntas como “quais proposições recentes tratam de tema X?” ou resumir uma
+proposição, sempre apontando os documentos recuperados. A API da Câmara disponibiliza
+proposições, tramitações, votações e outros recursos em formatos estruturados, o que permite montar
+uma base inteiramente rastreável.
+
+Escopo mínimo: 1–5 mil documentos; chunking; embeddings; vector store; top-k retrieval; resposta
+com trechos/fontes; endpoint de consulta; um conjunto de 50–100 perguntas de avaliação. Não comece
+com agente: primeiro demonstre que retrieval + geração funciona.
+
+Stack: Python, FastAPI, pgvector/Qdrant/Chroma, uma biblioteca de embeddings, LangChain ou
+implementação própria simples, MLflow para tracing/evaluation. LangGraph é opcional aqui; guarde-o
+para P3. O mercado atual cita explicitamente RAG, embeddings, vector DB e semantic search juntos.
+  
+Avaliação: Recall@K/NDCG@K do retrieval quando houver documento esperado; taxa de respostas que
+contêm evidência válida; groundedness/faithfulness em um golden set; taxa de abstention correta
+quando não há resposta; p50/p95 de latency e custo por pergunta quando usar API paga. MLflow
+recomenda datasets de avaliação persistentes justamente para comparar versões e evitar regressões.
+
+Critério de pronto: trocar prompt ou embedding produz um benchmark comparável; a resposta
+sempre referencia documentos; pergunta sem evidência leva a uma resposta de incerteza; traces
+permitem localizar retrieval e geração separadamente.
+
+Apresentação: inclua uma tabela como baseline BM25 → embeddings → embeddings +
+reranker , mesmo que o ganho seja pequeno. Isso demonstra experimentação, e não apenas “liguei
+LangChain a um modelo”.
