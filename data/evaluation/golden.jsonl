@@ -1,0 +1,50 @@
+{"id":"g001","question":"Qual proposição institui a Política Nacional de Educação Digital?","expected_references":["PL 4513/2020"],"label":"answerable"}
+{"id":"g002","question":"Que projeto prevê inclusão digital e educação digital escolar?","expected_references":["PL 4513/2020"],"label":"answerable"}
+{"id":"g003","question":"Qual proposta trata de qualificação e especialização digital da população?","expected_references":["PL 4513/2020"],"label":"answerable"}
+{"id":"g004","question":"Que proposição relaciona educação digital às diretrizes e bases da educação nacional?","expected_references":["PL 4513/2020"],"label":"answerable"}
+{"id":"g005","question":"Que projeto propõe uma política nacional com eixos de inclusão, educação escolar, qualificação, especialização e pesquisa digital?","expected_references":["PL 4513/2020"],"label":"answerable"}
+{"id":"g006","question":"Qual proposição sugere uma plataforma gratuita de recursos digitais para inclusão e letramento?","expected_references":["PL 4513/2020"],"label":"answerable"}
+{"id":"g007","question":"Que projeto propõe competências digitais em todos os níveis de escolaridade?","expected_references":["PL 4513/2020"],"label":"answerable"}
+{"id":"g008","question":"Qual proposição trata de letramento digital e aprendizagem ao longo da vida?","expected_references":["PL 4513/2020"],"label":"answerable"}
+{"id":"g009","question":"Qual projeto propõe ampliar infraestrutura de tecnologia digital nas instituições públicas de ensino?","expected_references":["PL 4513/2020"],"label":"answerable"}
+{"id":"g010","question":"Que proposição legislativa aborda pesquisa e desenvolvimento em tecnologias digitais?","expected_references":["PL 4513/2020"],"label":"answerable"}
+{"id":"g011","question":"Qual projeto de 2020 institui a Política Nacional de Educação Digital?","expected_references":["PL 4513/2020"],"label":"answerable"}
+{"id":"g012","question":"Que proposta busca preparar a população para um mercado de trabalho dependente de competências digitais?","expected_references":["PL 4513/2020"],"label":"answerable"}
+{"id":"g013","question":"Qual projeto dispõe sobre desenvolvimento, fomento e uso ético e responsável da inteligência artificial?","expected_references":["PL 2338/2023"],"label":"answerable"}
+{"id":"g014","question":"Que proposição legislativa trata de inteligência artificial com centralidade na pessoa humana?","expected_references":["PL 2338/2023"],"label":"answerable"}
+{"id":"g015","question":"Qual projeto aborda diretrizes para desenvolvimento e utilização ética da IA?","expected_references":["PL 2338/2023"],"label":"answerable"}
+{"id":"g016","question":"Que proposta trata do uso responsável de inteligência artificial no Brasil?","expected_references":["PL 2338/2023"],"label":"answerable"}
+{"id":"g017","question":"Qual proposição sobre IA menciona direitos da pessoa e autorregulação?","expected_references":["PL 2338/2023"],"label":"answerable"}
+{"id":"g018","question":"Que projeto trata de penalidades e competência de autoridades para inteligência artificial?","expected_references":["PL 2338/2023"],"label":"answerable"}
+{"id":"g019","question":"Qual proposta relaciona inteligência artificial, trabalho e proteção do trabalhador?","expected_references":["PL 2338/2023"],"label":"answerable"}
+{"id":"g020","question":"Qual projeto de lei do Senado trata de inteligência artificial com centralidade humana?","expected_references":["PL 2338/2023"],"label":"answerable"}
+{"id":"g021","question":"Que proposição prevê princípios para o desenvolvimento e fomento da inteligência artificial?","expected_references":["PL 2338/2023"],"label":"answerable"}
+{"id":"g022","question":"Qual projeto sobre IA menciona letramento algorítmico e educação digital?","expected_references":["PL 2338/2023"],"label":"answerable"}
+{"id":"g023","question":"Que proposição altera normas relacionadas à Política Nacional de Educação Digital para tratar de IA?","expected_references":["PL 2338/2023"],"label":"answerable"}
+{"id":"g024","question":"Qual proposta aborda critérios de proteção de direitos no uso da inteligência artificial?","expected_references":["PL 2338/2023"],"label":"answerable"}
+{"id":"g025","question":"Qual proposição dispõe sobre a proteção de crianças e adolescentes em ambientes digitais?","expected_references":["PL 2628/2022"],"label":"answerable"}
+{"id":"g026","question":"Que projeto trata de proteção de menores em aplicativos, jogos e redes sociais?","expected_references":["PL 2628/2022"],"label":"answerable"}
+{"id":"g027","question":"Qual proposta prevê mecanismos para proteger crianças e adolescentes em serviços digitais?","expected_references":["PL 2628/2022"],"label":"answerable"}
+{"id":"g028","question":"Que proposição legislativa aborda controle parental em ambientes digitais?","expected_references":["PL 2628/2022"],"label":"answerable"}
+{"id":"g029","question":"Qual projeto trata de medidas contra publicidade abusiva dirigida a crianças e adolescentes na internet?","expected_references":["PL 2628/2022"],"label":"answerable"}
+{"id":"g030","question":"Que proposta impõe medidas de proteção de crianças em produtos e serviços de tecnologia da informação?","expected_references":["PL 2628/2022"],"label":"answerable"}
+{"id":"g031","question":"Qual proposição legislativa aborda notificações de conteúdo que viole direitos de menores?","expected_references":["PL 2628/2022"],"label":"answerable"}
+{"id":"g032","question":"Que projeto trata de segurança e proteção de adolescentes em ambientes digitais?","expected_references":["PL 2628/2022"],"label":"answerable"}
+{"id":"g033","question":"Qual proposta legislativa ficou conhecida como ECA Digital?","expected_references":["PL 2628/2022"],"label":"answerable"}
+{"id":"g034","question":"Que proposição regula a proteção de crianças e adolescentes em serviços digitais?","expected_references":["PL 2628/2022"],"label":"answerable"}
+{"id":"g035","question":"Qual projeto institui a Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet?","expected_references":["PL 2630/2020"],"label":"answerable"}
+{"id":"g036","question":"Que proposição aborda transparência de redes sociais e serviços de mensagens?","expected_references":["PL 2630/2020"],"label":"answerable"}
+{"id":"g037","question":"Qual projeto de lei trata do combate à desinformação e a contas automatizadas?","expected_references":["PL 2630/2020"],"label":"answerable"}
+{"id":"g038","question":"Que proposta estabelece regras de liberdade e responsabilidade na internet?","expected_references":["PL 2630/2020"],"label":"answerable"}
+{"id":"g039","question":"Qual proposição trata de transparência e responsabilidade de provedores de aplicações?","expected_references":["PL 2630/2020"],"label":"answerable"}
+{"id":"g040","question":"Que projeto aborda impulsionamento e publicidade de conteúdo digital na internet?","expected_references":["PL 2630/2020"],"label":"answerable"}
+{"id":"g041","question":"Qual proposição legislativa inclui educação e alfabetização digital em regras sobre internet?","expected_references":["PL 2630/2020"],"label":"answerable"}
+{"id":"g042","question":"Que projeto de 2020 prevê diretrizes para transparência em redes sociais?","expected_references":["PL 2630/2020"],"label":"answerable"}
+{"id":"g043","question":"Quais proposições tratam de proteção de pessoas em ambientes digitais?","expected_references":["PL 2628/2022","PL 2338/2023"],"label":"ambiguous"}
+{"id":"g044","question":"Quais projetos abordam educação ou letramento digital?","expected_references":["PL 4513/2020","PL 2338/2023","PL 2630/2020"],"label":"ambiguous"}
+{"id":"g045","question":"Que propostas legislativas recentes discutem tecnologia e direitos na internet?","expected_references":["PL 2628/2022","PL 2338/2023","PL 2630/2020"],"label":"ambiguous"}
+{"id":"g046","question":"Qual foi o placar final do jogo mais recente da seleção brasileira?","expected_references":[],"label":"unanswerable"}
+{"id":"g047","question":"Qual é a previsão do tempo para amanhã em Brasília?","expected_references":[],"label":"unanswerable"}
+{"id":"g048","question":"Qual foi a cotação do dólar no fechamento de hoje?","expected_references":[],"label":"unanswerable"}
+{"id":"g049","question":"Qual é o resultado da última rodada do campeonato brasileiro de futebol?","expected_references":[],"label":"unanswerable"}
+{"id":"g050","question":"Quantos passageiros embarcaram hoje no aeroporto de Congonhas?","expected_references":[],"label":"unanswerable"}
